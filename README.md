@@ -17,7 +17,7 @@ I maintain a website that I created together with my friends. It serves as a pla
 You can find my website at the following link:
 - [https://codearthub.com](https://codearthub.com)
 
-## Project Examples
+## Project
 Here are some examples of the projects I have worked on:
 - [SyQPass](https://github.com/doctormaster1/syqpass): SyQPass is a free open source web-managed password manager.
 - [SyQLog](https://github.com/doctormaster1/syqlog): SyQLog is a web-managed syslog server.
