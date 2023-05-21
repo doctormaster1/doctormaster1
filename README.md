@@ -23,7 +23,7 @@ Here are some examples of the projects I have worked on:
 - [SyQLog](https://github.com/doctormaster1/syqlog): SyQLog is a web-managed syslog server.
 
 ## 🌐 Contact:
-[![Discord](https://img.shields.io/badge/DoctorMaster%239876-blue)](https://discord.gg/DoctorMaster#0551)
+[![Discord](https://img.shields.io/badge/DoctorMaster%230551-blue)](https://discord.gg/DoctorMaster#0551)
 [![LinkedIn](https://img.shields.io/badge/Ahmet_Esad_Barut-blue)](https://www.linkedin.com/in/ahmet-esad-barut-00689022a/)
 [![Email](https://img.shields.io/badge/ahmet.e.barut@gmail.com-red)](mailto:ahmet.e.barut@gmail.com)
 
