@@ -19,8 +19,8 @@ You can find my website at the following link:
 
 ## Project Examples
 Here are some examples of the projects I have worked on:
-- [Project 1](https://github.com/doctormaster1/syqpass): SyQPass is a free open source web-managed password manager.
-- [Project 2](https://github.com/doctormaster1/syqlog): SyQLog is a web-managed syslog server.
+- [SyQPass](https://github.com/doctormaster1/syqpass): SyQPass is a free open source web-managed password manager.
+- [SyQLog](https://github.com/doctormaster1/syqlog): SyQLog is a web-managed syslog server.
 
 ## 🌐 Contact:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DoctorMaster#0551) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-esad-barut-00689022a/) 
