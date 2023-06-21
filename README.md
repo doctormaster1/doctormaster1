@@ -24,7 +24,7 @@ Here are some examples of the projects I have worked on:
 
 ## 🌐 Contact:
 [![Discord](https://img.shields.io/badge/DoctorMaster%230551-blue)](https://discord.gg/DoctorMaster#0551)
-[![LinkedIn](https://img.shields.io/badge/Ahmet_Esad_Barut-blue)](https://www.linkedin.com/in/ahmet-esad-barut-00689022a/)
+[![LinkedIn](https://img.shields.io/badge/Ahmet_Esad_Barut-blue)](https://www.linkedin.com/in/ahmet-esad-barut/)
 [![Email](https://img.shields.io/badge/ahmet.e.barut@gmail.com-red)](mailto:ahmet.e.barut@gmail.com)
 
 ---
