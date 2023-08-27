@@ -9,6 +9,3 @@ Here are some examples of the projects I have worked on:
 [![Discord](https://img.shields.io/badge/doctormaster-blue)](https://discord.gg/doctormaster)
 [![LinkedIn](https://img.shields.io/badge/Ahmet_Esad_Barut-blue)](https://www.linkedin.com/in/ahmet-esad-barut/)
 [![Email](https://img.shields.io/badge/ahmet.e.barut@gmail.com-red)](mailto:ahmet.e.barut@gmail.com)
-
----
-[![](https://visitcount.itsvg.in/api?id=doctormaster1&icon=0&color=11)](https://visitcount.itsvg.in)
