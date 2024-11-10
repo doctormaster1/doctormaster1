@@ -1,4 +1,4 @@
-Hi 👋 My name is Ahmet Esad Barut
+Hi 👋 My name is Ahmet Barut
 =================================
 
 Software Developer & Cybersecurity Researcher
